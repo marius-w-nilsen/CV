@@ -1,0 +1,16 @@
+title: Marius Westby Nilsen – CV
+description: Plattform- og løsningsarkitekt
+url: "https://yourgithubusername.github.io/CV"
+baseurl: "/CV"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Customization
+author:
+  name: Marius Westby Nilsen
+  email: marius.w.nilsen@proton.me
+  github: marius-w-nilsen
+
+markdown: kramdown
