@@ -8,7 +8,7 @@ layout: home
     <h2 class="intro-title">Plattform- og løsningsarkitekt</h2>
    <p>Med over 10 års erfaring innen utvikling av skalerbare systemer, utviklerplattformer og full stack produktutvikling.</p>
 
-<p>Er spesielt opptatt av gode utvikler opplevelser, og hvordan redusert kognitiv belastning gir raskere leveranser og bedre produktkvalitet.</p>
+<p>Er spesielt opptatt av gode utvikleropplevelser, og hvordan redusert kognitiv belastning gir raskere leveranser og bedre produktkvalitet.</p>
 
 <p>Erfaring med å bygge plattformer som produkt, samt jobbe tett med produktledelse, produktutvikling, designmiljøer og kunder for å levere best mulig løsninger.</p>
   </div>
