@@ -34,19 +34,19 @@ layout: home
 ### Lead Solutions Architect
 **Tieto** | *2025 – d.d.*
 
-- Leder arkitektonisk retning på tvers av applikasjonsplatform, DevOps, cloud og produktutvikling: alle drar i samme rettning. 
-- Ansvarlig for teknisk systembeskrivelse, oversette strategi til konkrete oppgaver: Strategi er ikke bare ord, men hva vi gjør i praksis.
-- Sikrer sammenheng mellom plattformkapabiliteter og produktbehov: Vi lager de riktige tingene til riktig tid. 
-- Bidrar til standardisering og forbedring av utvikliningsprossessen: Bruk av standarder sikrer interoperabilitet, med en god prossess leverer vi fort. 
-- Har vært med å etablere designplattform og skalere design/UX-team: På tvers av land for dekke alle behovene. 
-- Fokus på DevEx og redusert kompleksitet for utviklere: Mer tid til det som gjelder, uten å ta bort mulighetene. 
+- Leder arkitektonisk retning på tvers av applikasjonsplatform, DevOps, cloud og produktutvikling: _alle drar i samme rettning._ 
+- Ansvarlig for teknisk systembeskrivelse, oversette strategi til konkrete oppgaver: _Strategi er ikke bare ord, men hva vi gjør i praksis._
+- Sikrer sammenheng mellom plattformkapabiliteter og produktbehov: _Vi lager de riktige tingene til riktig tid._
+- Bidrar til standardisering og forbedring av utvikliningsprossessen: _Bruk av standarder sikrer interoperabilitet, med en god prossess leverer vi fort._
+- Har vært med å etablere designplattform og skalere design/UX-team: _På tvers av land for dekke alle behovene. For designere, produkt, utviklere og kunder_ 
+- Fokus på DevEx og redusert kompleksitet for utviklere: _Mer tid til det som gjelder, uten å ta bort mulighetene._
 
 ### Lead Software Architect
 **Tieto** | *2019 – 2025*
 
-- Ledet utviklingen av en moderne plattform (eventbus, observability, IAM, multi-tenancy): Platform baserte tjenester for bedre produkter og raskere utvikling 
-- Bygget containerisert utviklerplattform for rask onboarding: Redusert on-boarding til en time! 
-- Designet og implementerte IAM-løsning
+- Ledet utviklingen av en moderne plattform (eventbus, observability, IAM, multi-tenancy): _Platform baserte tjenester for bedre produkter og raskere utvikling_ 
+- Bygget containerisert utviklerplattform for rask onboarding: _Redusert on-boarding til en time!_
+- Designet og implementerte IAM-løsning: _Identityserver4, OAuth2 og OIDC_
 - Forbedret DevEx gjennom standardisering og verktøy
 
 ### Software Architect
