@@ -37,7 +37,7 @@ layout: home
 - Leder arkitektonisk retning på tvers av applikasjonsplatform, DevOps, cloud og produktutvikling: alle drar i samme rettning. 
 - Ansvarlig for teknisk systembeskrivelse, oversette strategi til konkrete oppgaver: Strategi er ikke bare ord, men hva vi gjør i praksis.
 - Sikrer sammenheng mellom plattformkapabiliteter og produktbehov: Vi lager de riktige tingene til riktig tid. 
-- Bidrar til standardisering og forbedring av utvikliningsprossessen: Bruk av standarder sikrer interoperabilitet, med en god prossess lever vi fort. 
+- Bidrar til standardisering og forbedring av utvikliningsprossessen: Bruk av standarder sikrer interoperabilitet, med en god prossess leverer vi fort. 
 - Har vært med å etablere designplattform og skalere design/UX-team: På tvers av land for dekke alle behovene. 
 - Fokus på DevEx og redusert kompleksitet for utviklere: Mer tid til det som gjelder, uten å ta bort mulighetene. 
 
