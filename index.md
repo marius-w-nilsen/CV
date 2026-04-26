@@ -5,12 +5,12 @@ layout: home
 <div class="intro-section">
   <img src="{{ '/assets/profile.png' | relative_url }}" alt="Profile picture" class="profile-picture-large">
   <div class="intro-text">
-    <h2 class="intro-title">Plattform- og løsningsarkitekt</h2>
-   <p>Med over 10 års erfaring innen utvikling av skalerbare systemer, utviklerplattformer og full stack produktutvikling.</p>
+    <h2 class="intro-title">Arkitekt for skalerbare plattformer, utvikleroppleveser og bedre produkter</h2>
+   <p>Med over 10 års erfaring innen utvikling av skalerbare systemer, utvikler- og applikasjonsplatformer og full stack produktutvikling.</p>
 
 <p>Er spesielt opptatt av gode utvikleropplevelser, og hvordan redusert kognitiv belastning gir raskere leveranser og bedre produktkvalitet.</p>
 
-<p>Erfaring med å bygge plattformer som produkt, samt jobbe tett med produktledelse, produktutvikling, designmiljøer og kunder for å levere best mulig løsninger.</p>
+<p>Erfaring med å bygge plattformer som produkt, samt jobbe tett med produktledelse, produktutvikling, designmiljøer og kunder for å levere riktige løsninger til rett tid.</p>
   </div>
 </div>
 
@@ -23,7 +23,6 @@ layout: home
 <div class="skills">
 <span class="skill-tag">Plattformstrategi & DevEx</span>
 <span class="skill-tag">Systemarkitektur & skalerbare løsninger</span>
-<span class="skill-tag">Cloud, containere & plattformteknologi</span>
 <span class="skill-tag">Identity & Access Management</span>
 <span class="skill-tag">Tverrfaglig samarbeid</span>
 <span class="skill-tag">Teknisk rådgivning</span>
@@ -35,18 +34,18 @@ layout: home
 ### Lead Solutions Architect
 **Tieto** | *2025 – d.d.*
 
-- Leder arkitektonisk retning på tvers av plattform, DevOps, cloud og produktutvikling
-- Jobber med anskaffelser og kundedialog, inkludert løsningsdesign
-- Sikrer sammenheng mellom plattformkapabiliteter og produktbehov
-- Bidrar til standardisering og forbedring av utvikliningsprossessen 
-- Har vært med å etablere designplattform og skalere design/UX-team
-- Fokus på DevEx og redusert kompleksitet for utviklere
+- Leder arkitektonisk retning på tvers av applikasjonsplatform, DevOps, cloud og produktutvikling: alle drar i samme rettning. 
+- Ansvarlig for teknisk systembeskrivelse, oversette strategi til konkrete oppgaver: Strategi er ikke bare ord, men hva vi gjør i praksis.
+- Sikrer sammenheng mellom plattformkapabiliteter og produktbehov: Vi lager de riktige tingene til riktig tid. 
+- Bidrar til standardisering og forbedring av utvikliningsprossessen: Bruk av standarder sikrer interoperabilitet, med en god prossess lever vi fort. 
+- Har vært med å etablere designplattform og skalere design/UX-team: På tvers av land for dekke alle behovene. 
+- Fokus på DevEx og redusert kompleksitet for utviklere: Mer tid til det som gjelder, uten å ta bort mulighetene. 
 
 ### Lead Software Architect
 **Tieto** | *2019 – 2025*
 
-- Ledet utviklingen av en moderne plattform (eventbus, observability, IAM, multi-tenancy)
-- Bygget containerisert utviklerplattform for rask onboarding
+- Ledet utviklingen av en moderne plattform (eventbus, observability, IAM, multi-tenancy): Platform baserte tjenester for bedre produkter og raskere utvikling 
+- Bygget containerisert utviklerplattform for rask onboarding: Redusert on-boarding til en time! 
 - Designet og implementerte IAM-løsning
 - Forbedret DevEx gjennom standardisering og verktøy
 
